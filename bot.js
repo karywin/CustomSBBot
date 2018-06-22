@@ -115,7 +115,7 @@ bot.on('ready', () => {
                 let guildID = mutes[i].guild;
                 let guild = bot.guilds.get(guildID);
                 let member = guild.members.get(i);
-                let mutedRole = guild.roles.find(r => r.name === "Muted");
+                let mutedRole = guild.roles.find(r => r.name === `muzzled`);
                 // check if member is still in server
                 if (!member) {
                     console.log('ERROR: User is not in the server anymore!');
