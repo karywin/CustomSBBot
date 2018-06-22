@@ -1,1 +1,0 @@
-Bot used for server.
