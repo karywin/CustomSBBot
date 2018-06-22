@@ -21,13 +21,13 @@ module.exports.run = async (bot, message, args) => {
         return;
     }
     //searches for the role
-    let role = message.guild.roles.find(r => r.name === "Muted");
+    let role = message.guild.roles.find(r => r.name === `muzzled`);
     //if no muted role exists, create it.
     if (!role) {
         try {
             role = await message.guild.createRole({
-                name: "muted",
-                color: "#8a",
+                name: `muzzled`,
+                color: "#3b2e2e",
                 permissions: []
             });
 
