@@ -10,12 +10,14 @@ Discord.js Multifunction bot used for the Fox Appreciation Party server. Chassis
 - More features will be mentioned here in the future.
 
 ## Adding the bot to your server
-At this time, Vulpes Botius is still in development, and thus is a private bot. The bot key is in the config.json file if you really feel the need to install it yourself. You can use the original Space Boat as an alternative (https://github.com/Votyn/SpaceBoat/), or install it yourself. In the future, I will provide an easier way to install the bot for everyone. W Use at your own risk. I am not responsible for any incidents that are caused by this bot. If there is any bugs with the bot, or you need help installing it, I can be reached at leidentaysarconah@gmail.com or on discord as beawydp#1111.
+If you'd like to add the bot to your server, please go to https://discordapp.com/oauth2/authorize?client_id=456221813513388043&scope=bot to invite it. Beware that you'll need Manage Server permissions. Also beware that the bot goes offline every night, as well as every once in a while regularly. I am currently not able to host the bot 24/7. Hopefully in the future this will change.
 
-## Installation and Running of the bot on your server.
+## Installation and Running of the bot on your server (hosting it yourself)
 This bot requires [node.js](https://nodejs.org/en/download/), [git](https://git-scm.com/downloads), and [yarn](https://yarnpkg.com/en/docs/install). 
 
-I recommend downloading the version of the bot via source code or by git. I always will update the git first, and the zip file in the releases will be behind. To have all the latest commands, please clone via git.
+You can use this option if you are not happy with dealing with regular bot outages. At this time, Vulpes Botius is still in development. The bot key for the official bot is in the config.json file if you really feel the need to install it yourself. You can use the original Space Boat as an alternative (https://github.com/Votyn/SpaceBoat/), or install it yourself. You'll have to create a bot user in Discord, search it on Google for more information. Use at your own risk. I am not responsible for any incidents that are caused by this bot. If there is any bugs with the bot, or you need help installing it, I can be reached at leidentaysarconah@gmail.com or on discord as beawydp#1111.
+
+**I recommend downloading the version of the bot via source code or by git. I always will update the git first, and the zip file in the releases will be behind. To have all the latest commands, please clone via git.**
 
 To download the latest **stable** version of the bot via a .zip release file, please go here:
 https://github.com/karywin/VulpesBotius/releases/latest
