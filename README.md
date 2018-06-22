@@ -26,7 +26,7 @@ To download the **stable** version of the bot via git; i.e. the version the offi
 ```bash
 git clone https://github.com/karywin/VulpesBotius.git
 ```
-To download the **indev** version of the bot that I am currently working on, please visit http://bot.beawy.tk/vulpesbotius/dev/downloads
+To download the **indev** version of the bot that I am currently working on, please visit http://dev.beawy.tk/projects/vulpesbotius/dev/downloads/
 
 Having downloaded the bot, download the node dependencies:
 ```bash
