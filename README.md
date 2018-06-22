@@ -1,26 +1,26 @@
-# Space Boat
-Discord.js Multifunction bot primarily made for the [Space Engine Discord Server](https://discordapp.com/spaceengine)
+# Vulpes Botius
+Discord.js Multifunction bot used for the Fox Appreciation Party server. Chassis based on Space Boat (http://github.com/votyn/SpaceBoat)
 ## Planned features
- - ~~Moderation features such as mute, kick, ban, "roleremove", and some other role addition commands.~~
- - ~~Logging functionality to log user actions such as leaving and entering the server, information of which is stored in a logging channel.~~
- - Role stasis, where if a user leaves the server and comes back less than a week after, their roles remain. (mainly to prevent someone from getting rid of their roles)
- - An "experience" and autorole system.
- - An adaptable "Starboard", where a channel can be made into a starboard, that listens to a set of channels given to it, and the "starring" of messages in said channel.
+- ~~Ask command, gives a randomized and somewhat humourous answer to any question in the world.~~
+- ~~Moderation functions, kicking, banning, warning and role management of users in the server.~~
+- Server unique commands, such as a love orientated system in which points are rewarded to users. Bot gets more "intimate" as time goes on.
+- More moderation features, such as message logging and a user health system (like a point system but dictates where a user is in good standing in the server).
+- ~~Logging functions, such as when users join, leave, delete a message in the server. An admin log would seperate deleted messages from a public log.~~
+- Implementing a starred message program, such as a bot would provide like Starboard.
+- More features will be mentioned here in the future.
 
-## Getting the official bot on your server
-This is currently unavailable as the bot is still highly in development! For now, you can try out the bot by installing it yourself, as shown below!
+## Adding the bot to your server
+At this time, Vulpes Botius is still in development, and thus is a private bot. The bot key is in the config.json file if you really feel the need to install it yourself. You can use the original Space Boat as an alternative (https://github.com/Votyn/SpaceBoat/). In the future, I will provide a way to install the bot for everyone. When files appear in this repository, I will not provide instructions for them. Use at your own risk. I am not responsible for any incidents that are caused by this bot.
 
-## Installation and Running of the bot.
+## Installation and Running of the bot on your server.
 This bot requires [node.js](https://nodejs.org/en/download/), [git](https://git-scm.com/downloads), and [yarn](https://yarnpkg.com/en/docs/install). 
 
 To download the **stable** version of the bot; i.e. the version the official bot is running, run the following in a terminal:
 ```bash
-git clone https://github.com/Votyn/SpaceBoat.git
+git clone https://github.com/karywin/vulpes-botius.git
 ```
-To download the **indev** version of the bot that I am currently working on, you have to clone from the `dev` branch:
-```bash
-git clone -b dev https://github.com/Votyn/SpaceBoat.git
-```
+To download the **indev** version of the bot that I am currently working on, please visit http://bot.beawy.tk/vulpesbotius/dev/downloads
+
 Having downloaded the bot, download the node dependencies:
 ```bash
 yarn install
@@ -30,4 +30,6 @@ Then to start the bot (This uses `nodemon`):
 yarn start
 ```
 If you want to run it in the background with `screen` you can use `yarn background` instead.
+
+Installation instructions provided by Space Boat (https://github.com/Votyn/SpaceBoat/).
 # Vulpes-Botius
