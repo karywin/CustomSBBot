@@ -1,5 +1,5 @@
 # Vulpes Botius
-Discord.js Multifunction bot used for the Fox Appreciation Party server. Chassis based on Space Boat (http://github.com/votyn/SpaceBoat)
+Discord.js Multifunction bot used for the Fox Appreciation Party server. Chassis and platform based on Space Boat (http://github.com/votyn/SpaceBoat)
 ## Planned features
 - ~~Ask command, gives a randomized and somewhat humourous answer to any question in the world.~~
 - ~~Moderation functions, kicking, banning, warning and role management of users in the server.~~
@@ -39,4 +39,6 @@ yarn start
 If you want to run it in the background with `screen` you can use `yarn background` instead.
 
 Installation instructions provided by Space Boat (https://github.com/Votyn/SpaceBoat/).
+
+You are free to do what you'd like with the bot under terms of license from it's platform, at (https://github.com/Votyn/SpaceBoat/). Please credit me and https://github.com/Votyn/ when modifying the bot in any way/publishing it under your own work.
 # Vulpes-Botius
