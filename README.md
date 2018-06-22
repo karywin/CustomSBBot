@@ -17,7 +17,7 @@ This bot requires [node.js](https://nodejs.org/en/download/), [git](https://git-
 
 To download the **stable** version of the bot; i.e. the version the official bot is running, run the following in a terminal:
 ```bash
-git clone https://github.com/karywin/vulpes-botius.git
+git clone https://github.com/karywin/VulpesBotius.git
 ```
 To download the **indev** version of the bot that I am currently working on, please visit http://bot.beawy.tk/vulpesbotius/dev/downloads
 
