@@ -15,6 +15,8 @@ At this time, Vulpes Botius is still in development, and thus is a private bot. 
 ## Installation and Running of the bot on your server.
 This bot requires [node.js](https://nodejs.org/en/download/), [git](https://git-scm.com/downloads), and [yarn](https://yarnpkg.com/en/docs/install). 
 
+I recommend downloading the version of the bot via source code or by git. I always will update the git first, and the zip file in the releases will be behind. To have all the latest commands, please clone via git.
+
 To download the latest **stable** version of the bot via a .zip release file, please go here:
 https://github.com/karywin/VulpesBotius/releases/latest
 
