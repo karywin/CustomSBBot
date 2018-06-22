@@ -10,7 +10,7 @@ Discord.js Multifunction bot used for the Fox Appreciation Party server. Chassis
 - More features will be mentioned here in the future.
 
 ## Adding the bot to your server
-At this time, Vulpes Botius is still in development, and thus is a private bot. The bot key is in the config.json file if you really feel the need to install it yourself. You can use the original Space Boat as an alternative (https://github.com/Votyn/SpaceBoat/). In the future, I will provide a way to install the bot for everyone. When files appear in this repository, I will not provide instructions for them. Use at your own risk. I am not responsible for any incidents that are caused by this bot.
+At this time, Vulpes Botius is still in development, and thus is a private bot. The bot key is in the config.json file if you really feel the need to install it yourself. You can use the original Space Boat as an alternative (https://github.com/Votyn/SpaceBoat/), or install it yourself. In the future, I will provide an easier way to install the bot for everyone. W Use at your own risk. I am not responsible for any incidents that are caused by this bot. If there is any bugs with the bot, or you need help installing it, I can be reached at leidentaysarconah@gmail.com or on discord as beawydp#1111.
 
 ## Installation and Running of the bot on your server.
 This bot requires [node.js](https://nodejs.org/en/download/), [git](https://git-scm.com/downloads), and [yarn](https://yarnpkg.com/en/docs/install). 
