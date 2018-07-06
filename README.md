@@ -1,5 +1,5 @@
 # Vulpes Botius
-Discord.js Multifunction bot used for the Fox Appreciation Party server. Chassis and platform based on Space Boat (http://github.com/votyn/SpaceBoat)
+Discord.js Multifunction bot.. Chassis and platform based on Space Boat (http://github.com/votyn/SpaceBoat)
 ## Planned features
 - ~~Ask command, gives a randomized and somewhat humourous answer to any question in the world.~~
 - ~~Moderation functions, kicking, banning, warning and role management of users in the server.~~
@@ -10,7 +10,7 @@ Discord.js Multifunction bot used for the Fox Appreciation Party server. Chassis
 - More features will be mentioned here in the future.
 
 ## Adding the bot to your server
-If you'd like to add the bot to your server, please go to https://discordapp.com/oauth2/authorize?client_id=456221813513388043&scope=bot to invite it. Beware that you'll need Manage Server permissions. Also beware that the bot goes offline every night, as well as every once in a while regularly. I am currently not able to host the bot 24/7. Hopefully in the future this will change.
+If you'd like to add the bot to your server, please go to https://discordapp.com/deadlink to invite it. Beware that you'll need Manage Server permissions. Also beware that the bot goes offline every night, as well as every once in a while regularly. I am currently not able to host the bot 24/7. Hopefully in the future this will change.
 
 ## Installation and Running of the bot on your server (hosting it yourself)
 This bot requires [node.js](https://nodejs.org/en/download/), [git](https://git-scm.com/downloads), and [yarn](https://yarnpkg.com/en/docs/install). 
@@ -20,13 +20,12 @@ You can use this option if you are not happy with dealing with regular bot outag
 **I recommend downloading the version of the bot via source code or by git. I always will update the git first, and the zip file in the releases will be behind. To have all the latest commands, please clone via git.**
 
 To download the latest **stable** version of the bot via a .zip release file, please go here:
-https://github.com/karywin/VulpesBotius/releases/latest
+https://github.com/karywin/CustomSBBot/releases/latest
 
 To download the **stable** version of the bot via git; i.e. the version the official bot is running, run the following in a terminal:
 ```bash
-git clone https://github.com/karywin/VulpesBotius.git
+git clone https://github.com/karywin/CustomSBBot.git
 ```
-To download the **indev** version of the bot that I am currently working on, please visit http://dev.beawy.tk/projects/vulpesbotius/dev/downloads/
 
 Having downloaded the bot, download the node dependencies:
 ```bash
