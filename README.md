@@ -1,4 +1,4 @@
-# Vulpes Botius
+# CUSTOMSBBOTMETAAMAAMMZMMMMAAAA
 Discord.js Multifunction bot.. Chassis and platform based on Space Boat (http://github.com/votyn/SpaceBoat)
 ## Planned features
 - ~~Ask command, gives a randomized and somewhat humourous answer to any question in the world.~~
@@ -15,7 +15,7 @@ If you'd like to add the bot to your server, please go to https://discordapp.com
 ## Installation and Running of the bot on your server (hosting it yourself)
 This bot requires [node.js](https://nodejs.org/en/download/), [git](https://git-scm.com/downloads), and [yarn](https://yarnpkg.com/en/docs/install). 
 
-You can use this option if you are not happy with dealing with regular bot outages. At this time, Vulpes Botius is still in development. The bot key for the official bot is in the config.json file if you really feel the need to install it yourself. You can use the original Space Boat as an alternative (https://github.com/Votyn/SpaceBoat/), or install it yourself. You'll have to create a bot user in Discord, search it on Google for more information. Use at your own risk. I am not responsible for any incidents that are caused by this bot. If there is any bugs with the bot, or you need help installing it, I can be reached at leidentaysarconah@gmail.com or on discord as beawydp#1111.
+You can use this option if you are not happy with dealing with regular bot outages. At this time, the bot is still in development. The bot key for the official bot is in the config.json file if you really feel the need to install it yourself. You can use the original Space Boat as an alternative (https://github.com/Votyn/SpaceBoat/), or install it yourself. You'll have to create a bot user in Discord, search it on Google for more information. Use at your own risk. I am not responsible for any incidents that are caused by this bot. If there is any bugs with the bot, or you need help installing it, I can be reached at leidentaysarconah@gmail.com or on discord as beawydp#1111.
 
 **I recommend downloading the version of the bot via source code or by git. I always will update the git first, and the zip file in the releases will be behind. To have all the latest commands, please clone via git.**
 
