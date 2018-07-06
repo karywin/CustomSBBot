@@ -1,7 +1,7 @@
 {
-    "332726538904797184": {
-        "logChannelID": "456229481259073548",
-        "botChannelID": "332726538904797184",
-        "adminbotChannelID": "456229422526234624"
+    "3example": {
+        "logChannelID": "example",
+        "botChannelID": "example",
+        "adminbotChannelID": "4example"
     }
 }
