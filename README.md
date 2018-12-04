@@ -1,5 +1,7 @@
-# CUSTOMSBBOTMETAAMAAMMZMMMMAAAA
+# CustomSBBot
 Discord.js Multifunction bot.. Chassis and platform based on Space Boat (http://github.com/votyn/SpaceBoat)
+## NOTICE - Please read!
+This bot has now become a solely personal, closed source project. I created it a long time ago for friends to use, but I see no point in updating it here further. This bot will no longer recieve any further updates here, so use at your own risk.
 ## Planned features
 - ~~Ask command, gives a randomized and somewhat humourous answer to any question in the world.~~
 - ~~Moderation functions, kicking, banning, warning and role management of users in the server.~~
